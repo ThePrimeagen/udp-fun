@@ -1,0 +1,7 @@
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/include/node
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/src
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/deps/openssl/config
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/deps/openssl/openssl/include
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/deps/uv/include
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/deps/zlib
+-I/home/theprimeagen/.cache/node-gyp/14.17.4/deps/v8/include
